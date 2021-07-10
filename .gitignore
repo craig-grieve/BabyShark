@@ -1,0 +1,7 @@
+
+
+*.session
+keys.txt
+variables.env
+Images/
+JS/
